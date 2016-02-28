@@ -1,0 +1,74 @@
+_repo: Japanischer-Fruhling-Nachdichtungen-Japanischer-Lyrik_9178
+creator:
+  author:
+    agent_name: Bethge, Hans
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '2991'
+    url: http://www.gutenberg.org/2009/agents/2991
+    wikipedia: http://de.wikipedia.org/wiki/Hans_Bethge
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9178'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanese poetry -- Translations into German'
+- !lcc 'PL'
+tableOfContents: "MOTOORI NORINAGA (1730-1801)\r\n  Die Seele Japans. Als Motto\r\n\
+  AUS ARCHAISCHER ZEIT\r\n  Die schöne Nuna-Kawa-Hime\r\nKAISERIN IWA NO HIME (4.\
+  \ Jahrhundert nach Chr.)\r\n  Die Wartende\r\nKAISER YURYAKU (451-479 nach Chr.)\r\
+  \n  Liebeswerbung\r\nMUNETO (7. Jahrhundert nach Chr.)\r\n  Der Glückliche\r\nPRINZESSIN\
+  \ NUKADA (2. Hälfte des 7. Jahrhunderts)\r\n  In Erwartung\r\nOKURA (etwa 660-733)\r\
+  \n  Das Elend der Welt\r\nHITOMARO (etwa 662-709)\r\n  Einsam\r\n  Die Geliebte\
+  \ im Segelboot\r\n  Kriegszug\r\nOZI (663-687)\r\n  Trübes Lied\r\nKAISER MOMMU\
+  \ (697-707)\r\n  An den Schnee\r\nAKAHITO (Mitte des 8. Jahrhunderts)\r\n  Der Fuji-Yama\r\
+  \n  Betrachtung\r\nMUSHIMARO\r\n  Die Trauerweide\r\nEDELDAME ISHIKAWA (8. Jahrhundert)\r\
+  \n  Der Mond\r\nKIBINO (gestorben 775)\r\n  Frühlings Ende\r\nOKISHIMA (8. Jahrhundert)\r\
+  \n  Frühlings Ende\r\nYAKAMOCHI (gestorben 785)\r\n  In der Fremde\r\n  Heimweh\r\
+  \nFUJIWARA NO HIROTSUGU\r\n  Der Blütenzweig\r\nTABITO\r\n  Der Freund des Weines\r\
+  \nUNBEKANNTE DICHTER aus der Sammlung MANYOSHU\r\n    (abgeschlossen im Jahre 759):\r\
+  \n  Am Ufer\r\n  Bitte an den Hund\r\n  Der Teich\r\n  Trennung\r\n  Vertrauen\r\
+  \n  Über die Heide\r\n  Bangnis\r\n  Die schöne Kurtisane\r\n  Qualvolle Eifersucht\r\
+  \n  Vergebenes Bemühen\r\n  Wunsch\r\nFRAU KOMACHI (gestorben etwa 870)\r\n  Die\
+  \ Träume\r\n  Einsam\r\nHENJO (815-890)\r\n  Das Lotusblatt\r\n  Familienstolz\r\
+  \nPRINZ NARIHIRA (825-880)\r\n  Schwermut\r\n  Tagelied eines Mädchens\r\n  Liebeskummer\r\
+  \nTOMONORI (845-905)\r\n  Sehnsucht nach der Nachtigall\r\n  Dauer im Wechsel\r\n\
+  \  Gleiche Sehnsucht\r\nOCHI (9. Jahrhundert)\r\n  Die Wildgans\r\nOTOMO KURONUSHI\
+  \ (2. Hälfte des 9. Jahrhunderts)\r\n  Frühlingsregen\r\nFRAU ISE (um 900)\r\n \
+  \ Betrachtung\r\nMITSUNE (859-907)\r\n  Trübsinn\r\n  Heute!\r\n  An einen Freund\r\
+  \nTADAMINE (868-965)\r\n  Erinnerung\r\n  Frommer Wunsch\r\n  Haltlos\r\nFUKAYOBU\r\
+  \n  Das klagende Herz\r\nMASAZUMI\r\n  Die allerersten Blüten\r\nKI NO ARITOMO\r\
+  \n  Dauernde Erinnerung\r\nTSURAYUKI (882-946)\r\n  Jubel\r\n  Blüten und Herzen\r\
+  \n  Schnee im Frühling\r\n  Blütenschnee\r\nATSUTADA (gestorben 943)\r\n  Seitdem\
+  \ ich dich liebe\r\n  Gesteigerte Sehnsucht\r\nUNBEKANNTE DICHTER aus der Sammlung\
+  \ KOKINSHU\r\n  (abgeschlossen im Jahre 905):\r\n  Ankunft des Frühlings\r\n  Liebe\r\
+  \n  Das Alter\r\n  Lieben und Sterben\r\n  Das Mädchen auf der Brücke\r\n  Liebesqualen\r\
+  \n  Herbst\r\n  Schatten\r\n  Schnee\r\n  Immer wieder\r\n  Schlaflos\r\n  Unerwiderte\
+  \ Liebe\r\n  Sehnsüchtiger Gedanke\r\n  Der duftende Ärmel\r\nKANEMORI (10. Jahrhundert)\r\
+  \n  Das Kopfkissen\r\n  Heimliche Liebe\r\nUNBEKANNTE KURTISANE\r\n  Bei Betrachtung\
+  \ des Mondes\r\nOKI KASSI\r\n  Unmöglichkeit\r\nTERANGE\r\n  Schwermut\r\nSIGEYUKI\r\
+  \n  Verzweiflung\r\nUNBEKANNTE DICHTERIN (10. Jahrhundert)\r\n  Die Verlassene\r\
+  \nFRAU IZUMI SHIKIBU (um 1000)\r\n  Noch einmal\r\nFRAU INNO BETTO (12. Jahrhundert)\r\
+  \n  Dieselbe Nacht\r\nFRAU HORIKAWA (12. Jahrhundert)\r\n  Erregung\r\nFUJIWARA\
+  \ NO TOSHINARI (1113-1204)\r\n  Jammer der Erde\r\nSAIGYO (1118-1190)\r\n  Gedanken\r\
+  \n  Schwermut\r\n  Vom Mond\r\n  Abschied von den Blüten\r\n  Blüten\r\nKIUTSUNE\
+  \ (13. Jahrhundert)\r\n  Das Alter\r\nSONE NO YOSHITAKA\r\n  Steuerlos\r\nSAKINO\
+  \ DAISOJO GYOSON\r\n  An die Kirschenblüten\r\nPRINZ MUNENAGA (1312-1385)\r\n  An\
+  \ die Wildgänse\r\nUNBEKANNTE DICHTERIN (16. Jahrhundert)\r\n  Liebesbrief\r\nAUS\
+  \ DEM SINGSPIEL MIIDERA (17. Jahrhundert)\r\n  Vergebenes Warten\r\nVOLKSLIED\r\n\
+  \  Um mit dir zu leben\r\nKURTISANE SEGAWA (18. Jahrhundert)\r\n  Der Liebeslaut\r\
+  \nUNBEKANNTER DICHTER (18. Jahrhundert)\r\n  Die Weide im Wind\r\nUNBEKANNTER DICHTER\
+  \ (18. Jahrhundert)\r\n  Nach dem Bade\r\nAUS DEM BUCHE YEHON CHITOSEYAMA (18. Jahrhundert)\r\
+  \n  Beschränkung\r\nUNBEKANNTER DICHTER (18. Jahrhundert)\r\n  Leichtes Spiel\r\n\
+  SANDARA (18. Jahrhundert)\r\n  Die Morgenglocke\r\nYORIKITO (19. Jahrhundert)\r\n\
+  \  Täuschung"
+title: 'Japanischer Frühling
+
+  Nachdichtungen Japanischer Lyrik'
+url: http://www.gutenberg.org/ebooks/9178
